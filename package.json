@@ -4,7 +4,6 @@
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "@types/react": "^16.9.34",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
@@ -13,6 +12,8 @@
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
     "babel-jest": "^25.3.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",
