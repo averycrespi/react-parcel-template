@@ -1,5 +1,7 @@
 {
   "name": "react-parcel-template",
+  "description": "My React app",
+  "author": "Avery Crespi",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
