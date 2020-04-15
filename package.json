@@ -29,6 +29,14 @@
     "build": "parcel build public/index.html",
     "test": "jest"
   },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-runtime"
+    ]
+  },
   "husky": {
     "hooks": {
       "pre-commit": "yarn test"
@@ -37,5 +45,9 @@
   "jest": {
     "automock": false,
     "silent": true
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2
   }
 }
