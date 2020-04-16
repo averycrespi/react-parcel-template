@@ -46,11 +46,7 @@
     }
   },
   "jest": {
-    "automock": false,
     "silent": true
   },
-  "prettier": {
-    "trailingComma": "es5",
-    "tabWidth": 2
-  }
+  "prettier": {}
 }
