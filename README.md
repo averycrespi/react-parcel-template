@@ -8,6 +8,7 @@ Includes:
 - [ESLint](https://eslint.org/)
 - [Husky](https://www.npmjs.com/package/husky)
 - [Jest](https://jestjs.io/)
+- [Material UI](https://material-ui.com/)
 - [Parcel](https://parceljs.org/)
 - [Prettier](https://prettier.io/)
 - [PropTypes](https://www.npmjs.com/package/prop-types)
