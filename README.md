@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <hr>
+    <br>
     <img src="https://via.placeholder.com/1920x1080">
 </div>
 
