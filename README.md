@@ -22,7 +22,10 @@
     <a href="#license">License</a>
 </div>
 
-![Screenshot](https://via.placeholder.com/1920x1080)
+<div align="center">
+    <hr>
+    <img src="https://via.placeholder.com/1920x1080">
+</div>
 
 ## About
 
